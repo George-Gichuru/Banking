@@ -13,6 +13,4 @@ def pick_random():
     picked = random.choice(numbers)
     last_picked = picked
     return picked
-
-    for _ in range(5):
-        print (pick_random())
+        
