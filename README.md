@@ -1,4 +1,4 @@
-show_balance
-deposit
-withdraw
+show_balance,
+deposit,
+withdraw,
 exit
