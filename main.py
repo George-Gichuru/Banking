@@ -9,3 +9,7 @@ def Deposit():
 
 def Withdraw():
     pass
+
+
+is_running = True 
+# if false exit the program
