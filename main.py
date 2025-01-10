@@ -1,18 +1,17 @@
-import random
 
-last_picked = None
+# Banking Program
 
-def pick_random():
-    global last_picked
-    
-    numbers = [1, 2, 3, 4, 5]
+def Show_Balance():
+    pass
 
-    if numbers is not None:
-        numbers.remove(last_picked)
+def Deposit():
+    pass
 
-    picked = random.choice(numbers)
-    last_picked = picked
-    return picked
+def Withdraw():
+    pass
 
-    for _ in range(5):
-        print (pick_random())
+def Transfer():
+    pass
+
+is_running = True
+# if false exit the program
